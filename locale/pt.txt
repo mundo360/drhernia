@@ -1,0 +1,116 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_A3772963_85DF_E88A_41D8_7760437A8A45.source = https://api.whatsapp.com/send?phone=556199676-7756&text=Ol%C3%A1%2C+tudo+bem%3F+Estava+navegando+no+site+doutorhernia.com.br+e+gostaria+de+uma+informa%C3%A7%C3%A3o.
+LinkBehaviour_A3C2AB55_85DB_288E_41DB_26C99E7B5883.source = https://api.whatsapp.com/send?phone=556199676-7756&text=Ol%C3%A1%2C+tudo+bem%3F+Estava+navegando+no+site+doutorhernia.com.br+e+gostaria+de+uma+informa%C3%A7%C3%A3o.
+LinkBehaviour_F0228BC5_EA96_7B6C_41E0_E300A263F766.source = https://api.whatsapp.com/send?phone=556199676-7756&text=Ol%C3%A1%2C+tudo+bem%3F+Estava+navegando+no+site+doutorhernia.com.br+e+gostaria+de+uma+informa%C3%A7%C3%A3o.
+LinkBehaviour_F3F2C784_EA8A_2BEC_41E6_0501301962A4.source = https://api.whatsapp.com/send?phone=5561996767756&text=Ol%C3%A1,%20gostaria%20de%20falar%20sobre%20tratamento
+LinkBehaviour_216D1295_0DCC_C348_419B_781ABFCB9E05.source = https://g.page/r/CTgC5LvYxXbUEBM/review
+LinkBehaviour_2B524257_0D3B_43C8_41A3_85DA2CE2EA3E.source = https://g.page/r/CTgC5LvYxXbUEBM/review
+LinkBehaviour_A3EEC970_85DB_6886_41C8_3FCC94134E9B.source = https://www.doutorhernia.com.br/
+LinkBehaviour_F005B277_EA8E_252B_41DC_F226D1BD7276.source = https://www.doutorhernia.com.br/
+LinkBehaviour_5312080B_44CF_8D9D_4194_4BBD0FBE799B.source = https://www.facebook.com/doutorhernia/
+LinkBehaviour_5628CC44_44B5_8594_41A4_78168694225D.source = https://www.facebook.com/doutorhernia/
+WebFrame_F189646D_EAFA_2D3C_41E8_6215A5EE4ECC.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3840.188290507966!2d-47.900362625275484!3d-15.741175421646101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3915cf6147af%3A0xd476c5d8bbe40238!2sDoutor%20H%C3%A9rnia%20-%20Unidade%20Bras%C3%ADlia%20Asa%20Norte!5e0!3m2!1spt-BR!2sbr!4v1774048764206!5m2!1spt-BR!2sbr
+WebFrame_A2194524_85D5_388E_41C5_1DA461D7365E.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3840.188290507966!2d-47.900362625275484!3d-15.741175421646101!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x935a3915cf6147af%3A0xd476c5d8bbe40238!2sDoutor%20H%C3%A9rnia%20-%20Unidade%20Bras%C3%ADlia%20Asa%20Norte!5e0!3m2!1spt-BR!2sbr!4v1774048764206!5m2!1spt-BR!2sbr
+LinkBehaviour_5783C26E_44B5_9D97_417F_981E309F721C.source = https://www.instagram.com/doutorherniaoficial/
+LinkBehaviour_53DB8017_44D5_9DB4_41C3_6CAF48D5E103.source = https://www.instagram.com/doutorherniaoficial/
+
+## Media
+
+### Title
+panorama_1FF9D698_0D45_C379_419D_09402017A254.label = 01-Entrada
+panorama_1C04BFC4_0D45_C0C9_4172_BC20DF929B1D.label = 02-Recepção
+panorama_1C02A8D2_0D45_C0C8_4198_40C38B3DE39C.label = 03-Espera
+panorama_1C02D1CE_0D45_C0D9_41AA_80D069BC8597.label = 04-Acesso-Consultório
+panorama_1C02CB7F_0D45_C1B7_4198_1F044BA63DF3.label = 05-Consultório-Porta
+panorama_1C02248F_0D45_C758_41A4_E07F82C9DDEF.label = 06-Consultório-Entrada
+panorama_1C02EDDD_0D45_C0F8_41A7_975D2DCB5F2E.label = 07-Consultório-Lateral
+panorama_1C02470B_0D45_4158_413D_25291EB24868.label = 08-Consultório-central
+panorama_1C02A04A_0D45_5FD8_4199_F997C317A354.label = 09-Consultório-Aparelho
+panorama_1C022966_0D45_41C9_41A4_B4780ABA1F5A.label = 10-Consultório-Mesa
+
+## Skin
+
+### Button
+Button_A3C2BB55_85DB_288E_41C5_9DFE89C6265A.label = Atendimento via Whatsapp
+Button_F3F2F784_EA8A_2BEC_41D1_6FDDB5B66C01.label = Falar via Whatsapp
+
+### Dropdown
+DropDown_978BDB92_855F_6F8A_4177_E1F6CF5D3B78.label = TOUR VIRTUAL 360º
+DropDown_AFF57EA7_853B_298B_41D3_20A5F6D2F3B5.label = Tour Virtual 360
+
+### Image
+Image_216E7293_0DCC_C348_41A0_247706910841.url = skin/Image_216E7293_0DCC_C348_41A0_247706910841_pt.png
+Image_2B5DC255_0D3B_43C8_4195_69EB37DA9784.url = skin/Image_2B5DC255_0D3B_43C8_4195_69EB37DA9784_pt.png
+Image_536C9807_44CF_8D95_41CD_9A4C164045C7.url = skin/Image_536C9807_44CF_8D95_41CD_9A4C164045C7_pt.png
+Image_53DDB015_44D5_9DB4_41A1_A77B4E28DDCC.url = skin/Image_53DDB015_44D5_9DB4_41A1_A77B4E28DDCC_pt.png
+Image_562AFC41_44B5_858C_41BC_2D34CD613F1A.url = skin/Image_562AFC41_44B5_858C_41BC_2D34CD613F1A_pt.png
+Image_5786F269_44B5_9D9C_41BA_77ADC0CEA422.url = skin/Image_5786F269_44B5_9D9C_41BA_77ADC0CEA422_pt.png
+Image_94AAC61A_855A_D8BA_41C2_DA06DD6D20CB.url = skin/Image_94AAC61A_855A_D8BA_41C2_DA06DD6D20CB_pt.png
+Image_A3779963_85DF_E88A_41C2_B76B88619CA7.url = skin/Image_A3779963_85DF_E88A_41C2_B76B88619CA7_pt.png
+Image_A3EDA970_85DB_6886_41C6_15D6A4F6E922.url = skin/Image_A3EDA970_85DB_6886_41C6_15D6A4F6E922_pt.png
+Image_A53355BD_85EB_3BFE_41DE_A84145F89517.url = skin/Image_A53355BD_85EB_3BFE_41DE_A84145F89517_pt.png
+Image_C296AFDC_DBBA_41BC_41C0_7EECB492C704.url = skin/Image_C296AFDC_DBBA_41BC_41C0_7EECB492C704_pt.png
+Image_F006E277_EA8E_252B_41DD_F1AD4F5B116B.url = skin/Image_F006E277_EA8E_252B_41DD_F1AD4F5B116B_pt.png
+Image_F0237BC5_EA96_7B6C_41E2_7C0AF0D63C73.url = skin/Image_F0237BC5_EA96_7B6C_41E2_7C0AF0D63C73_pt.png
+Image_F3F11784_EA8A_2BEC_41E8_56B034DB9701.url = skin/Image_F3F11784_EA8A_2BEC_41E8_56B034DB9701_pt.png
+
+### Label
+Label_53A92E03_44CA_858D_41A9_B25668445C4A.text = @doutorherniaoficial
+Label_6DAEE24F_454D_BD94_41C6_1B4009870D4D.text = @doutorherniaoficial
+Label_2B5C9256_0D3B_43C8_41A2_576D1E4A074F.text = AVALIAR
+Label_216ED294_0DCC_C348_419C_A71301BF5408.text = AVALIAR
+Label_A3EDB970_85DB_6886_41D1_9507DE307371.text = Acessar SITE Principal?
+Label_F006D277_EA8E_252B_41D8_77AD1CFE528F.text = Acessar SITE Principal?
+Label_A377A963_85DF_E88A_41DA_0F39B32FC69B.text = Conversar via Whatsapp?
+Label_F0230BC5_EA96_7B6C_41E4_DCF84EF2A23B.text = Conversar via Whatsapp?
+Label_562ABC41_44B5_858C_41C4_BC12E3C86276.text = Deseja acessar o Facebook ?
+Label_536CF807_44CF_8D94_41C5_F721B32D2A52.text = Deseja acessar o Facebook?
+Label_5786226A_44B5_9D9C_41B5_E17CC5655B6F.text = Deseja acessar o Instagram ?
+Label_53DD4015_44D5_9DB4_41C3_7551E0055951.text = Deseja acessar o Instagram?
+Label_216D029A_0DCC_C379_41A8_118920D0C340.text = FECHAR (X)
+Label_2B5C2257_0D3B_43C8_4192_F9F984B73E77.text = FECHAR (X)
+Label_2B5D1256_0D3B_43C8_41AA_223AD2DC765B.text = Faça uma avaliação de nossa 
+Label_216EE294_0DCC_C348_417B_B98B6BBC8DFB.text = Faça uma avaliação de nossa empressa no GOOGLE 
+Label_A3ED6970_85DB_6886_41C3_19E9444594BC.text = NÃO
+Label_5312280B_44CF_8D9D_41C0_A001526763ED.text = NÃO
+Label_5783926F_44B5_9D95_41A2_06A69A0CB261.text = NÃO
+Label_A377D963_85DF_E88A_41CA_35D7200185B4.text = NÃO
+Label_53DC7018_44D5_9DBC_41B6_E76457F16D5C.text = NÃO
+Label_56295C46_44B5_8594_41C0_2140B9FE304D.text = NÃO
+Label_F0233BC5_EA96_7B6C_41D0_0C6C442A2ABA.text = NÃO
+Label_F0062277_EA8E_252B_41E9_D718170A3232.text = NÃO
+Label_F006C277_EA8E_252B_41E2_14E05A6E2542.text = SIM
+Label_F0231BC5_EA96_7B6C_41B9_8014EBF910C3.text = SIM
+Label_5786026B_44B5_9D9C_41C2_B0CC52986581.text = SIM
+Label_562A1C43_44B5_858D_41B2_DC2AD18C5B21.text = SIM
+Label_536CD809_44CF_8D9D_41D1_0A4541D24251.text = SIM
+Label_A3ED4970_85DB_6886_41DC_25FA7C5449F6.text = SIM
+Label_A377B963_85DF_E88A_4188_AC6FF41534C7.text = SIM
+Label_53DCF016_44D5_9DB4_41CA_4B020C44A395.text = SIM
+Label_F0061277_EA8E_252B_41E9_F856DB46005B.text = doutorhernia.com.br
+Label_A3ED7970_85DB_6886_41DC_4DE913B232B5.text = doutorhernia.com.br
+Label_2979D404_0D3F_4748_419D_B2AD3FA3090D.text = empresa no GOOGLE
+Label_53126812_44CF_8D8C_41CB_F38815457BC5.text = facebook.com/doutorhernia/
+Label_514C676B_44DE_839C_41B4_66690D6B9D5F.text = facebook.com/doutorhernia/
+Label_6C0814C3_43C2_880F_41AA_D1A82E25B4A4.text = você está aqui:
+Label_6E6A24E9_43CE_8818_41B4_20BDEDDBA2CE.text = você está aqui:
+Label_6E69D4E9_43CE_8818_41BD_B0E51783FB61.text = {{title}}
+Label_6C09E4C3_43C2_880F_41CC_87E7DCF95CFC.text = {{title}}
+
+### Multiline Text
+HTMLText_D69B082E_DB7A_4E9C_41C9_EC56AA37F891_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:2.34vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:0.77vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:2.34375vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:2.34vh;font-family:'Oswald Regular';">Lista de Espaços</SPAN></SPAN></DIV></div>
+HTMLText_F189046D_EAFA_2D3C_41E4_5E96B40D95A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:2.656250000000009vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:2.66vh;font-family:'Bebas Neue Bold';"><B>Localização</B></SPAN></SPAN></DIV></div>
+HTMLText_A2A28B22_852B_288A_41B5_C495F8E164EB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:3.910000000000011vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#000099;font-size:3.91vh;font-family:'Otama.ep';"><B>LISTA DE FOTOS:</B></SPAN></SPAN></DIV></div>
+HTMLText_F3F2E784_EA8A_2BEC_41C2_483C7A12129A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0033ff;font-size:13px;"><B>Endereço: </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:13px;"><B>SEPN CRN 515 BL E Sala 218 - Asa Norte, Brasília - DF, 70770-505</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Telefone:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">(61) 996767756</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Instagram:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#f3a22e;"><A TARGET="_blank" HREF="https://www.instagram.com/colegioindi/" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="color:#000000;font-size:15px;">@doutorherniaoficial</SPAN></A></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_A273A5C4_85D5_DB8D_41D8_3689549E675D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0033ff;font-size:13px;"><B>Endereço: </B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;">SEPN CRN 515  BL E Sala 218 - Asa Norte, Brasília - DF, 70770-505</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Telefone:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">(61) 996767756</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Instagram:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">@doutorherniaoficial/</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:13px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000cc;font-size:13px;"><B>Facebook:</B></SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:15px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:15px;">https://www.facebook.com/doutorhernia/</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:13px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:10px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6.5px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:6px;"><BR STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Sem Título 76
