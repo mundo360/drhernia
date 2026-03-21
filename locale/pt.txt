@@ -20,6 +20,11 @@ LinkBehaviour_53DB8017_44D5_9DB4_41C3_6CAF48D5E103.source = https://www.instagra
 
 ## Media
 
+### Audio
+audiores_390796AF_0D47_4357_41A4_F961867FE16A.mp3Url = media/audio_22009FF0_0D5B_C0C9_4199_6689F1A5C724_pt.mp3
+
+### Audio Subtitles
+
 ### Title
 panorama_1FF9D698_0D45_C379_419D_09402017A254.label = 01-Entrada
 panorama_1C04BFC4_0D45_C0C9_4172_BC20DF929B1D.label = 02-Recepção
